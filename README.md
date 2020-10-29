@@ -6,9 +6,9 @@
  
 ### Specifications
  
- * Pin No. = 13, 14, 15, 16
+ * Pin No. = P12 (Relay1), P13 (Relay 2), P14 (Relay 3), P15 (Relay 4)
  * Input Voltage = 3V
- * Channel - 4
+ * Channel - 4 CH
  * AC Control Voltage - 120V @ 2A
  * DC Control Voltage - 24V @ 2A
 
